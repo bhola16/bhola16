@@ -8,13 +8,14 @@
   Hi 👋, I'm Bholanath Bala
 </h1>
 
+
 <p align="center">
-  <strong>AI Engineer in Progress • Software Developer • ECE Graduate</strong>
+  <strong>AI Researcher in Progress • Software Developer • ECE Graduate</strong>
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Aspiring+AI+Engineer;Software+Developer;Machine+Learning+Enthusiast;Building+Real-World+Projects;Always+Learning+New+Technologies"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Aspiring+AI+Researcher;Software+Developer;Machine+Learning+Enthusiast;Building+Real-World+Projects;Always+Learning+New+Technologies"
     alt="Typing SVG"
   />
 </p>
