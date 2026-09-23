@@ -68,7 +68,6 @@
   <li>🧠 Interested in solving real-world problems through <strong>AI + Software Engineering</strong></li>
   <li>👯 Open to collaborating on <strong>AI, Machine Learning, and Web Development projects</strong></li>
   <li>🔬 Interested in <strong>AI research and emerging technologies</strong></li>
-  <li>📄 <a href="./CV_Bholanath_Bala.pdf"><strong>View My Resume</strong></a></li>
   <li>📫 Reach me at <strong>ku.bhola16@gmail.com</strong></li>
 </ul>
 
