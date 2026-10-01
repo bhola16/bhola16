@@ -572,21 +572,9 @@
     >
   </a>
 </p>
-
 <hr>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=bhola16&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" > </p>
 
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=bhola16&label=Profile%20Views&color=0e75b6&style=for-the-badge"
-    alt="Profile Views"
-  >
-</p>
-
-<p align="center">
-  <b>Thank you for visiting my profile! 🙏</b>
-  <br>
-  I appreciate your time and interest.
-</p>
 
 <p align="center">
   ⭐ If you find any of my projects interesting, feel free to star or contribute!
